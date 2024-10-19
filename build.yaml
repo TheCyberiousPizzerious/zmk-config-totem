@@ -3,6 +3,6 @@ include:
   - board: seeeduino_xiao_rp2040
     shield: totem_left
   #-b board: seeeduino_xiao_ble
-  - board: seeeduino_xiao_2040
+  - board: seeeduino_xiao_rp2040
     shield: totem_right
 # there is no settingsreset (needed) for the XIAO
